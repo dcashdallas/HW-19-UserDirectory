@@ -2,7 +2,7 @@
 <h1 align="center">User Directory</h1>
 
 ## DEMO<br>
-
+![user directory in action](https://github.com/dcashdallas/HW-19-UserDirectory/blob/master/public/userdirectory.gif)
 
 ## Description<br>
 
